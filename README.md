@@ -5,7 +5,7 @@ This repository contains the notebook and Django app forthe kaggle [Real or Not?
 This repo also contains : 
 * The train and test sets.
 * Powerpoint presentation of the solution.
-* [Demo Video.](https://youtu.be/BuP15HS9Db0)
+* [Demo Video.](https://youtu.be/Ne8dFLUYuCA)
 * The code for the Django app.
 
-The Kaggle notebook can be ran [here](https://www.kaggle.com/moezabid/disaster-tweets-nlp).
+
